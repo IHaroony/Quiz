@@ -4,14 +4,17 @@
 # Overview
 This Python script is a simple command-line quiz application. It presents a series of multiple-choice questions to the user, evaluates their responses, and provides feedback on their performance.
 
-Features
+# Features
 
 Greeting Message: Welcomes users and introduces the quiz.
 Countdown Timer: Offers a countdown before starting the quiz.
 Question Handling: Displays questions with multiple-choice answers and checks user input.
 Feedback: Provides performance ratings based on the user's final score.
 Ending Message: Shows a closing message and asks for feedback.
-Requirements
+
+
+
+# Requirements
 Python 3.x
 Installation
 Clone or Download:
@@ -31,11 +34,11 @@ Navigate to the Project Directory:
 bash
 Copy code
 cd <project-directory>
-Usage
+
+
+
+# Usage
 Run the script using Python:
-
-
-
 bash
 Copy code
 python <filename>.py
@@ -44,7 +47,8 @@ Greeting & Countdown: Displays initial messages and countdown.
 Question & Answer: Presents questions and processes user answers.
 Feedback: Calculates and shows the user's score and performance rating.
 Ending: Provides a final message and thanks the user.
-Example
+
+# Example
 plaintext
 Copy code
 Welcome everyone!
@@ -71,7 +75,8 @@ Thanks for Playing
 Please let me know if there are any improvements that can be made. :/ 
 Hopefully you enjoyed the quiz 
       ::::::::::      :) Goodbye! :)     :::::::::       
-License
+      
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 For any issues or suggestions, please contact the project maintainer.
