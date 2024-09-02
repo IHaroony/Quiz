@@ -5,6 +5,7 @@
 This Python script is a simple command-line quiz application. It presents a series of multiple-choice questions to the user, evaluates their responses, and provides feedback on their performance.
 
 Features
+
 Greeting Message: Welcomes users and introduces the quiz.
 Countdown Timer: Offers a countdown before starting the quiz.
 Question Handling: Displays questions with multiple-choice answers and checks user input.
@@ -15,6 +16,8 @@ Python 3.x
 Installation
 Clone or Download:
 
+
+
 bash
 Copy code
 git clone <repository-url>
@@ -22,11 +25,16 @@ or download the ZIP file.
 
 Navigate to the Project Directory:
 
+
+
+
 bash
 Copy code
 cd <project-directory>
 Usage
 Run the script using Python:
+
+
 
 bash
 Copy code
