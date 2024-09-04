@@ -1,5 +1,7 @@
 # General Quiz
 
+![image](https://github.com/user-attachments/assets/12118cf3-d616-49cf-bb4d-d8d40da5c8bd)
+
 
 # Overview
 This Python script is a simple command-line quiz application. It presents a series of multiple-choice questions to the user, evaluates their responses, and provides feedback on their performance.
